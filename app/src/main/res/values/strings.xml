@@ -1,0 +1,50 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Project 7 of Android Course With Saumya Singh- Application Assignment 1</string>
+    <string name="screen_1">Screen 1</string>
+    <string name="welcome_to_ritikcoder_s_knowledge_hub">Welcome to RitikCoder\'s Knowledge Hub</string>
+    <string name="let_s_go">Let\'s Go</string>
+    <string name="screen_2">Screen 2</string>
+    <string name="android_application_development_heading">Android Application Development</string>
+    <string name="web_development">Web Development</string>
+    <string name="ios_application_development">IOS\nApplication Development</string>
+    <string name="machine_learning">Machine \n Learning</string>
+    <string name="block_chain_development">Block Chain Development</string>
+    <string name="artificial_intelligence">Artificial Intelligence</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="android_application_development">Android Application Development</string>
+    <string name="Android_Operating_System">Android Operating System Android is a mobile operating system based on a modified version of the Linux kernel and other open-source software, designed primarily for touchscreen mobile devices such as smartphones and tablets. Android is developed by a partnership of developers known as the Open Handset Alliance and commercially sponsored by Google. It was disclosed in November 2007, with the first commercial Android device, the HTC Dream, launched in September 2008</string>
+    <string name="json">JSON</string>
+    <string name="xml">XML</string>
+    <string name="java">Java</string>
+    <string name="kotlin">Kotlin</string>
+    <string name="html">HTML</string>
+    <string name="css">CSS</string>
+    <string name="java_script">Java Script</string>
+    <string name="web_development_Heading">Web Development</string>
+    <string name="mysql">MySQL</string>
+    <string name="Introduction_To_Web_Development">HTML is a markup language used by the browser to manipulate text, images, and other content, in order to display it in the required format. HTML was created by Tim Berners-Lee in 1991. The first-ever version of HTML was HTML 1.0, but the first standard version was HTML 2.0, published in 1995. Cascading Style Sheets, fondly referred to as CSS, is a simply designed language intended to simplify the process of making web pages presentable. CSS allows you to apply styles to web pages. More importantly, \n\n CSS enables you to do this independently of the HTML that makes up each web page. It describes how a webpage should look: it prescribes colors, fonts, spacing, and much more. In short, you can make your website look however you want. CSS lets developers and designers define how it behaves, including how elements are positioned in the browser.</string>
+    <string name="IOS_App_Development">Apple iOS app development continues to be both developers’ and users’ choice. For more than a decade, ioS app developers have fought hard to get their apps installed. It is important to partner with an iOS application development company to gain an advantage. The ultimate goal is to get you to open the app, increase time spent on the app interface, engage with some content, and watch a few ads. According to statistics, Apple had paid a total of over 200 billion U.S. dollars to iOS app developers selling goods and services through the App Store. The cumulative payout to developers amounted to nearly 155 billion U.S. dollars. While the apps on Google and Apple continue to fluctuate regularly, Apple App Store contains almost 2.09 million apps. There is a challenge to rise in the app store rankings.</string>
+    <string name="ui_kit">UI KIT</string>
+    <string name="swift">SWIFT</string>
+    <string name="mac_book">Mac Book</string>
+    <string name="ios_application_development_Heading">IOS Application Development</string>
+    <string name="php">PHP</string>
+    <string name="js">JS</string>
+    <string name="c">C#</string>
+    <string name="Introduction_To_Machine_Learning_">Definition of Machine Learning: Arthur Samuel, an early American leader in the field of computer gaming and artificial intelligence, coined the term “Machine Learning ” in 1959 while at IBM. He defined machine learning as “the field of study that gives computers the ability to learn without being explicitly programmed “. However, there is no universally accepted definition for machine learning. Different authors define the term differently. We give below two more definitions. Machine learning is programming computers to optimize a performance criterion using example data or past experience . We have a model defined up to some parameters, and learning is the execution of a computer program to optimize the parameters of the model using the training data or past experience. The model may be predictive to make predictions in the future, or descriptive to gain knowledge from data. The field of study known as machine learning is concerned with the question of how to construct computer programs that automatically improve with experience.</string>
+    <string name="machine_learning_Heading">Machine Learning</string>
+    <string name="Introduction_To_BlockChain_Development">A blockchain is a type of database used to store and organize information. Traditional databases arrange information into rows and columns that make up tables. This makes the information easy for computers to recognize. With blockchains, however, information is digitally formatted and collected into clusters or blocks. Each block has a limited storage capacity. Once that capacity is reached, the block closes and links to the preceding block via cryptography, creating a chain. Cryptography creates an unchangeable timestamp when one block links to another. This permanent record verifies the accuracy of sensitive information like transactions. Traditional databases, on the other hand, are typically controlled by a central authority. Sensitive data may be managed and maintained by an organization or administrator.</string>
+    <string name="main_netsh">Main Net</string>
+    <string name="ganache">Ganache</string>
+    <string name="truffle">TRUFFLE</string>
+    <string name="block_chain_development_Heading">Block Chain \n Development</string>
+    <string name="artificial_intelligence_Heading">Artificial Intelligence</string>
+    <string name="nero_ai">Nero AI</string>
+    <string name="strong_ai">Strong AI</string>
+    <string name="ml">ML</string>
+    <string name="data_economy">Data Economy</string>
+    <string name="introduction_to_ai">Artificial Intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think and act like humans. It involves the development of algorithms and computer programs that can perform tasks that typically require human intelligence such as visual perception, speech recognition, decision-making, and language translation. AI has the potential to revolutionize many industries and has a wide range of applications, from virtual personal assistants to self-driving cars.
+Before leading to the meaning of artificial intelligence let understand what is the meaning of Intelligence-
+Intelligence: The ability to learn and solve problems. This definition is taken from webster’s Dictionary.
+The most common answer that one expects is “to make computers intelligent so that they can act intelligently!”, but the question is how much intelligent? How can one judge intelligence? </string>
+</resources>
