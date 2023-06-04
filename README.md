@@ -1,5 +1,5 @@
 # AndroidCourseDay7
-Day 7 of My Android Course.
+Day-7 of Android Course:- Assignment 1:- To open other activities and use cardView to use different2 typw of actions.
 <hr><hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
